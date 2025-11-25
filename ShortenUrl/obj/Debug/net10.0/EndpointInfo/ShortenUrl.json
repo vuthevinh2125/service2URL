@@ -1,0 +1,133 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "ShortenUrl",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Shortener/shorten": {
+      "post": {
+        "tags": [
+          "Shortener"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUrlDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUrlDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUrlDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ShortUrlResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ShortUrlResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ShortUrlResponseDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/code/{code}": {
+      "get": {
+        "tags": [
+          "Shortener"
+        ],
+        "parameters": [
+          {
+            "name": "code",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateUrlDto": {
+        "type": "object",
+        "properties": {
+          "originalUrl": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ShortUrlResponseDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "shortCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "originalUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "shortLink": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "lastAccessed": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "hitCount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Shortener"
+    }
+  ]
+}

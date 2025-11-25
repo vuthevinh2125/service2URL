@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ShortenUrl.Tests/ShortenUrl.Tests.csproj" />
+  <Project Path="ShortenUrl/ShortenUrl.csproj" />
+</Solution>
