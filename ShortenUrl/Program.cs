@@ -16,7 +16,8 @@ var connectionString = builder.Configuration.GetConnectionString("ShortenerDbCon
 // Đăng ký DbContext (Sử dụng SQL Server)
 builder.Services.AddDbContext<ShortenerDbContext>(options =>
 {
-    options.UseSqlServer(connectionString);
+    //options.UseSqlServer(connectionString);
+    options.UseNpgsql(connectionString);
 });
 
 // Đăng ký Repository (Scoped) và Services (Singleton)
