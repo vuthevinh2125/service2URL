@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Code URL\\TinyUrlWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\clients\\usermanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\clients\\usermanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\clients\\iusermanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\clients\\iusermanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\data\\shortenerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\data\\shortenerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|d:\\code url\\tinyurlwebapp\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|d:\\code url\\tinyurlwebapp\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|d:\\code url\\tinyurlwebapp\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|d:\\code url\\tinyurlwebapp\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|d:\\code url\\tinyurlwebapp\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25A63586-FD77-4E8C-8ADC-5A10C38CF0BC}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\migrations\\20251125135305_initpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\migrations\\20251125135305_initpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\data\\shortenerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\data\\shortenerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\data\\shortenerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,8 +113,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 181,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 173,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +126,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ShortenUrl\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\UserModel.cs",
+              "RelativeToolTip": "ShortenUrl\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:07:39.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserManagementClient.cs",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Clients\\UserManagementClient.cs",
+              "RelativeDocumentMoniker": "ShortenUrl\\Clients\\UserManagementClient.cs",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Clients\\UserManagementClient.cs",
+              "RelativeToolTip": "ShortenUrl\\Clients\\UserManagementClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:07:16.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserManagementClient.cs",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Clients\\IUserManagementClient.cs",
+              "RelativeDocumentMoniker": "ShortenUrl\\Clients\\IUserManagementClient.cs",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Clients\\IUserManagementClient.cs",
+              "RelativeToolTip": "ShortenUrl\\Clients\\IUserManagementClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:07:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T14:13:13.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T14:12:22.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
@@ -114,12 +197,11 @@
               "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T14:07:12.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T14:07:12.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
@@ -127,25 +209,23 @@
               "RelativeToolTip": "ApiGateway\\ocelot.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T14:06:20.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T14:06:20.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
               "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ApiGateway\\Program.cs",
               "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:04:51.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T14:04:51.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "20251125135305_InitPostgres.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Migrations\\20251125135305_InitPostgres.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Migrations\\20251125135305_InitPostgres.cs",
@@ -153,12 +233,11 @@
               "RelativeToolTip": "ShortenUrl\\Migrations\\20251125135305_InitPostgres.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:53:05.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:53:05.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ShortCodeGeneratorTests.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
@@ -170,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Dockerfile",
               "RelativeDocumentMoniker": "ShortenUrl\\Dockerfile",
@@ -182,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ShortenerController.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Controllers\\ShortenerController.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Controllers\\ShortenerController.cs",
@@ -194,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ShortenerDbContext.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContext.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContext.cs",
@@ -202,7 +281,8 @@
               "RelativeToolTip": "ShortenUrl\\Data\\ShortenerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:55:57.981Z"
+              "WhenOpened": "2025-11-24T21:55:57.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -212,13 +292,14 @@
               "RelativeDocumentMoniker": "ShortenUrl\\Program.cs",
               "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Program.cs",
               "RelativeToolTip": "ShortenUrl\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:31:08.395Z"
+              "WhenOpened": "2025-11-24T21:31:08.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ShortenUrl.Tests.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
@@ -230,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.json",
@@ -242,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\Properties\\launchSettings.json",
@@ -254,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "UrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Repositories\\UrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Repositories\\UrlRepository.cs",
@@ -266,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ShortenedUrl.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortenedUrl.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortenedUrl.cs",
@@ -278,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ShortUrlResponseDto.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortUrlResponseDto.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortUrlResponseDto.cs",
@@ -290,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "IUrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Interfaces\\IUrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Interfaces\\IUrlRepository.cs",
@@ -302,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ShortCodeGenerator.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Services\\ShortCodeGenerator.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Services\\ShortCodeGenerator.cs",
@@ -314,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "ShortenUrl",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
@@ -325,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ShortenUrl.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
@@ -337,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.Development.json",
@@ -354,12 +435,12 @@
           ]
         },
         {
-          "DockedHeight": 29,
+          "DockedHeight": 37,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ShortenerDbContextFactory.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
@@ -388,10 +469,6 @@
           "DockedHeight": 6,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
