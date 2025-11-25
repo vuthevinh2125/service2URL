@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ShortenUrl.Controllers.ShortenerController",
+    "Method": "CreateShortUrl",
+    "RelativePath": "api/Shortener/shorten",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ShortenUrl.Controllers.CreateUrlDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShortenUrl.Models.ShortUrlResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShortenUrl.Controllers.ShortenerController",
+    "Method": "RedirectToUrl",
+    "RelativePath": "code/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
