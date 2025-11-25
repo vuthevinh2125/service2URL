@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Code URL\\TinyUrlWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\data\\shortenerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\data\\shortenerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,7 +77,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 118,
+          "DockedHeight": 70,
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -86,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ShortCodeGeneratorTests.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
@@ -98,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Dockerfile",
               "RelativeDocumentMoniker": "ShortenUrl\\Dockerfile",
@@ -110,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ShortenerController.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Controllers\\ShortenerController.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Controllers\\ShortenerController.cs",
@@ -122,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ShortenerDbContext.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContext.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContext.cs",
@@ -134,20 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Program.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Program.cs",
               "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Program.cs",
               "RelativeToolTip": "ShortenUrl\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:31:08.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShortenUrl.Tests.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
@@ -159,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.json",
@@ -171,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\Properties\\launchSettings.json",
@@ -183,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Repositories\\UrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Repositories\\UrlRepository.cs",
@@ -195,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ShortenedUrl.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortenedUrl.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortenedUrl.cs",
@@ -207,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ShortUrlResponseDto.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortUrlResponseDto.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortUrlResponseDto.cs",
@@ -219,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IUrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Interfaces\\IUrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Interfaces\\IUrlRepository.cs",
@@ -231,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ShortCodeGenerator.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Services\\ShortCodeGenerator.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Services\\ShortCodeGenerator.cs",
@@ -243,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ShortenUrl",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
@@ -254,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ShortenUrl.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
@@ -266,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.Development.json",
@@ -283,9 +287,22 @@
           ]
         },
         {
-          "DockedHeight": 92,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 140,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortenerDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "RelativeToolTip": "ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:54:58.328Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortenUrl.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc1022d67a3e820e537aedcec89939452d532b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ee3f50d10546962e89474701ca75071af38bd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortenUrl.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortenUrl.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
