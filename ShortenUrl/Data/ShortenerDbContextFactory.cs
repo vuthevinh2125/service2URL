@@ -27,7 +27,8 @@ namespace ShortenUrl.Data
             var optionsBuilder = new DbContextOptionsBuilder<ShortenerDbContext>();
 
             // Dùng Connection String đã được đọc từ appsettings.json
-            optionsBuilder.UseSqlServer(connectionString);
+            //optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.UseNpgsql(connectionString);
 
             return new ShortenerDbContext(optionsBuilder.Options);
         }

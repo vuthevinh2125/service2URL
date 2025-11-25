@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Code URL\\TinyUrlWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\data\\shortenerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\data\\shortenerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|d:\\code url\\tinyurlwebapp\\shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BE5A8DE-429D-90AB-AE4A-06FB884992D3}|ShortenUrl\\ShortenUrl.csproj|solutionrelative:shortenurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,7 +77,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 118,
+          "DockedHeight": 70,
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -86,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ShortCodeGeneratorTests.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
@@ -94,12 +98,11 @@
               "RelativeToolTip": "ShortenUrl.Tests\\ShortCodeGeneratorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:36:19.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T08:36:19.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Dockerfile",
               "RelativeDocumentMoniker": "ShortenUrl\\Dockerfile",
@@ -107,12 +110,11 @@
               "RelativeToolTip": "ShortenUrl\\Dockerfile",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-25T08:36:02.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T08:36:02.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ShortenerController.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Controllers\\ShortenerController.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Controllers\\ShortenerController.cs",
@@ -120,12 +122,11 @@
               "RelativeToolTip": "ShortenUrl\\Controllers\\ShortenerController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:31:41.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:31:41.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ShortenerDbContext.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContext.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContext.cs",
@@ -133,25 +134,24 @@
               "RelativeToolTip": "ShortenUrl\\Data\\ShortenerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:55:57.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:55:57.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Program.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Program.cs",
               "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Program.cs",
               "RelativeToolTip": "ShortenUrl\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:31:08.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShortenUrl.Tests.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
               "RelativeDocumentMoniker": "ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
@@ -159,12 +159,11 @@
               "RelativeToolTip": "ShortenUrl.Tests\\ShortenUrl.Tests.csproj",
               "ViewState": "AgIAABIAAAAAAAAAAAAnwCQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T08:19:49.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T08:19:49.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.json",
@@ -172,12 +171,11 @@
               "RelativeToolTip": "ShortenUrl\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T21:31:24.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:31:24.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShortenUrl\\Properties\\launchSettings.json",
@@ -185,12 +183,11 @@
               "RelativeToolTip": "ShortenUrl\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T21:37:09.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:37:09.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Repositories\\UrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Repositories\\UrlRepository.cs",
@@ -198,12 +195,11 @@
               "RelativeToolTip": "ShortenUrl\\Repositories\\UrlRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:37:46.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:37:46.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ShortenedUrl.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortenedUrl.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortenedUrl.cs",
@@ -211,12 +207,11 @@
               "RelativeToolTip": "ShortenUrl\\Models\\ShortenedUrl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:53:17.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:53:17.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ShortUrlResponseDto.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Models\\ShortUrlResponseDto.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Models\\ShortUrlResponseDto.cs",
@@ -224,12 +219,11 @@
               "RelativeToolTip": "ShortenUrl\\Models\\ShortUrlResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:53:18.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:53:18.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IUrlRepository.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Interfaces\\IUrlRepository.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Interfaces\\IUrlRepository.cs",
@@ -237,12 +231,11 @@
               "RelativeToolTip": "ShortenUrl\\Interfaces\\IUrlRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:36:43.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:36:43.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ShortCodeGenerator.cs",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Services\\ShortCodeGenerator.cs",
               "RelativeDocumentMoniker": "ShortenUrl\\Services\\ShortCodeGenerator.cs",
@@ -250,24 +243,22 @@
               "RelativeToolTip": "ShortenUrl\\Services\\ShortCodeGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:53:25.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:53:25.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ShortenUrl",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
               "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeToolTip": "ShortenUrl\\ShortenUrl.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T21:37:06.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:37:06.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ShortenUrl.csproj",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\ShortenUrl.csproj",
               "RelativeDocumentMoniker": "ShortenUrl\\ShortenUrl.csproj",
@@ -275,12 +266,11 @@
               "RelativeToolTip": "ShortenUrl\\ShortenUrl.csproj",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T21:32:46.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:32:46.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ShortenUrl\\appsettings.Development.json",
@@ -288,8 +278,7 @@
               "RelativeToolTip": "ShortenUrl\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T04:15:07.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T04:15:07.449Z"
             },
             {
               "$type": "Bookmark",
@@ -298,9 +287,22 @@
           ]
         },
         {
-          "DockedHeight": 92,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 140,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortenerDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "ToolTip": "D:\\Code URL\\TinyUrlWebApp\\ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "RelativeToolTip": "ShortenUrl\\Data\\ShortenerDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:54:58.328Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
