@@ -1,6 +1,5 @@
 ﻿namespace ShortenUrl.Models
 {
-    // Model để nhận dữ liệu User từ Service 3
     public class UserModel
     {
         public string Id { get; set; }

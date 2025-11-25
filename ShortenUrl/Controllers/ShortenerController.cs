@@ -24,7 +24,6 @@ namespace ShortenUrl.Controllers
             _logger = logger;
         }
 
-        // POST api/shortener/shorten: T?o URL ng?n (CREATE)
         [HttpPost("shorten")]
         public async Task<ActionResult<ShortUrlResponseDto>> CreateShortUrl([FromBody] CreateUrlDto dto)
         {
@@ -33,7 +32,6 @@ namespace ShortenUrl.Controllers
                 return BadRequest(ModelState);
             }
 
-            // 1. Validation URL
             if (!Uri.TryCreate(dto.OriginalUrl, UriKind.Absolute, out var uriResult) ||
                 (uriResult.Scheme != Uri.UriSchemeHttp && uriResult.Scheme != Uri.UriSchemeHttps))
             {
@@ -65,7 +63,6 @@ namespace ShortenUrl.Controllers
             }
 
 
-            // Đoạn này chủ yếu hiểu logic à gán thêm 1 link cố định có cổng port 7575 ( để mix vào random code cho ra link hoàn chinhr)
             var baseUrl = $"{Request.Scheme}://{Request.Host}";
 
             var shortLink = $"{baseUrl}/code/{createdUrl.ShortCode}";
@@ -96,10 +93,8 @@ namespace ShortenUrl.Controllers
                 return NotFound(new { error = $"ShortCode '{code}' not found." });
             }
 
-            // Cap nhat HitCount
             await _repository.UpdateAccessAsync(code);
 
-            // Tra ve` HTTP 302 Found
             return Redirect(urlEntry.OriginalUrl);
         }
     }

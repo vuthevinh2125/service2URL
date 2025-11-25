@@ -11,9 +11,6 @@ using System.Net.Http;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// -----------------------------------------------------------------
-// 1. KẾT NỐI DATABASE (Service 2 - ShortenUrl)
-// -----------------------------------------------------------------
 
 var connectionString = builder.Configuration.GetConnectionString("ShortenerDbConnection");
 
@@ -24,34 +21,23 @@ if (string.IsNullOrEmpty(connectionString))
 
 builder.Services.AddDbContext<ShortenerDbContext>(options =>
 {
-    // Sử dụng PostgreSQL
     options.UseNpgsql(connectionString);
 });
 
-// -----------------------------------------------------------------
-// 2. KẾT NỐI SANG SERVICE 3 (UserManagement)
-// -----------------------------------------------------------------
 
-// 👇 ĐĂNG KÝ HTTP CLIENT ĐỂ GỌI SANG USER MANAGEMENT SERVICE
 builder.Services.AddHttpClient("UserManagementService", client =>
 {
-    // URL của Service 3 (Đã cập nhật theo link mới nhất bạn cung cấp)
     client.BaseAddress = new Uri("https://userservice-latest-p29g.onrender.com/");
 });
 
-// 👇 ĐĂNG KÝ USER MANAGEMENT CLIENT
-// (Bạn cần tạo IUserManagementClient và UserManagementClient trong thư mục Clients)
 builder.Services.AddScoped<IUserManagementClient, UserManagementClient>();
-// 👆 -----------------------------------------------------------------
 
-// Đăng ký Service và Repository
 builder.Services.AddScoped<IUrlRepository, UrlRepository>();
 builder.Services.AddSingleton<ShortCodeGenerator>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// Cấu hình Swagger/OpenAPI Security (Giữ nguyên)
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
@@ -82,7 +68,6 @@ builder.Services.AddSwaggerGen(options =>
 
 var jwtKey = builder.Configuration["Jwt:Key"] ?? "1234567890qwertyuiopgsdgsdgsdgsdgsdgsdgsdgdsgsdgsdgsdgdsgsdgsdgdsgsdrewwetwetewtwetewtewtwetwetwetewweewrwererwerwerewrwerwerwerwe";
 
-// Cấu hình JWT Authentication (Giữ nguyên)
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -103,13 +88,11 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// Cấu hình CORS (Để cho phép Frontend gọi vào)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend",
       policy =>
       {
-          // Cho phép Frontend (Service 1) và Service 3 gọi vào (nếu cần)
           policy.WithOrigins(
               "https://fe-render.onrender.com",
               "https://userservice-latest-p29g.onrender.com", // Đã thêm Service 3 vào CORS
@@ -124,9 +107,6 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// -----------------------------------------------------------------
-// 3. TỰ ĐỘNG TẠO BẢNG (Migration)
-// -----------------------------------------------------------------
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;

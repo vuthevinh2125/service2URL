@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="ApiGateway/ApiGateway.csproj" Id="25a63586-fd77-4e8c-8adc-5a10c38cf0bc" />
   <Project Path="ShortenUrl.Tests/ShortenUrl.Tests.csproj" />
   <Project Path="ShortenUrl/ShortenUrl.csproj" />
 </Solution>

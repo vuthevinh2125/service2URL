@@ -1,5 +1,4 @@
 ﻿using Xunit;
-// ShortenUrl/Services/ShortCodeGenerator.cs
 namespace ShortenUrl.Services
 {
     public class ShortCodeGenerator
