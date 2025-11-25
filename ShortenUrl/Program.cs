@@ -39,10 +39,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 
-    /* --- ĐÃ COMMENT LẠI ĐỂ TRÁNH LỖI CRASH TRÊN RENDER ---
-       Khi nào có Database thật thì mở comment này ra nhé.
+  
     
-    // Áp dụng Migration lúc khởi động (Lab 4, Lab 8)
     using (var scope = app.Services.CreateScope())
     {
         var services = scope.ServiceProvider;
@@ -60,7 +58,6 @@ if (app.Environment.IsDevelopment())
             logger.LogError(ex, "Lỗi kết nối Database - Bỏ qua để chạy Web.");
         }
     }
-    ------------------------------------------------------- */
 }
 
 app.UseHttpsRedirection();
