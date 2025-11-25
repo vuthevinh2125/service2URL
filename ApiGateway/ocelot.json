@@ -1,0 +1,22 @@
+﻿{
+  "Routes": [
+    {
+      // Đường dẫn của Web Service (Microservice đích)
+      "DownstreamPathTemplate": "/api/Shortener/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          // Tên host Render của bạn
+          "Host": "shorten-url-2zif.onrender.com",
+          "Port": 443
+        }
+      ],
+      // Đường dẫn mà Gateway nhận (Dùng cho người dùng)
+      "UpstreamPathTemplate": "/api/v1/shorten/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+  }
+}
