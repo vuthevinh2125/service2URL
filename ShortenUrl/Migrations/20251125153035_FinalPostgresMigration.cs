@@ -7,7 +7,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace ShortenUrl.Migrations
 {
     /// <inheritdoc />
-    public partial class InitPostgres : Migration
+    public partial class FinalPostgresMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

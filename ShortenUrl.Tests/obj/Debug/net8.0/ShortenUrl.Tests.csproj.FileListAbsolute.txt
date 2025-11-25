@@ -166,3 +166,4 @@ D:\Code URL\TinyUrlWebApp\ShortenUrl.Tests\obj\Debug\net8.0\refint\ShortenUrl.Te
 D:\Code URL\TinyUrlWebApp\ShortenUrl.Tests\obj\Debug\net8.0\ShortenUrl.Tests.pdb
 D:\Code URL\TinyUrlWebApp\ShortenUrl.Tests\obj\Debug\net8.0\ShortenUrl.Tests.genruntimeconfig.cache
 D:\Code URL\TinyUrlWebApp\ShortenUrl.Tests\obj\Debug\net8.0\ref\ShortenUrl.Tests.dll
+D:\Code URL\TinyUrlWebApp\ShortenUrl.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

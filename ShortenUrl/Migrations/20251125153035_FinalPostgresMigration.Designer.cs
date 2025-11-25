@@ -12,8 +12,8 @@ using ShortenUrl.Data;
 namespace ShortenUrl.Migrations
 {
     [DbContext(typeof(ShortenerDbContext))]
-    [Migration("20251125135305_InitPostgres")]
-    partial class InitPostgres
+    [Migration("20251125153035_FinalPostgresMigration")]
+    partial class FinalPostgresMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
